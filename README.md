@@ -1,6 +1,6 @@
 # 💘 Speed Dating EDA
 
-This notebook explores behavioral patterns and preferences in a speed dating dataset, using thoughtful visualizations and statistical summaries to uncover what drives attraction, connection, and follow-up interest.
+Welcome to my Tinder project, completed as part of the Jedha Fullstack Data program. This notebook explores behavioral patterns and preferences in a speed dating dataset, using thoughtful visualizations and statistical summaries to uncover what drives attraction, connection, and follow-up interest.
 
 # 📊 What’s Inside
 
